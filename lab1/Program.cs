@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace lab_1
+namespace lab1
 {
     public class PersonProperties : IEquatable<PersonProperties>
     {
